@@ -1,2 +1,3 @@
-MiguelGaticaPUMBLUS
-mi.gatica@duocuc.cl
+# MiguelGaticaPUMBLUS
+# mi.gatica@duocuc.cl
+# conflicto resuelto!!!
